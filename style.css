@@ -11,14 +11,11 @@ h1 {
 }
 
 .mainBody {
-  /* display: flex; */
-  /* flex-direction: column; */
   background-color: darkseagreen;
   padding: 25px;
 }
 
 .topRow {
-  /* width: 700px; */
   display: flex;
   background-color: darkgray;
   justify-content: space-evenly;
